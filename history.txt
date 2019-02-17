@@ -1,0 +1,85 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>your meal cost: 23
+service cost 20
+sales tax cost: 153.33333333333334
+	Total is: 196.33333333333334
+>>>>>>>>>>>>>>>>your meal cost: 30
+service cost 20
+sales tax cost: 200.0
+	Total is: 250.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>your meal cost: 0
+service cost 20
+sales tax cost: 0.0
+	Total is: 20.0
+your meal cost: 0
+service cost 20
+sales tax cost: 0.0
+	Total is: 20.0
+your meal cost: 0
+service cost 20
+sales tax cost: 0.0
+	Total is: 20.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>1 tee 5
+
+>>>>>>>>>>>>>>>>1 meat 55
+
+>>>>>>>>>>>>>>>>1 meat 55
+
+you cancel operation
+>>>>>>>>>>>>>>>>your meal cost: 110.0
+service cost 20
+sales tax cost: 733.3333333333334
+	Total is: 863.3333333333334
+your meal cost: 110.0
+service cost 20
+sales tax cost: 733.3333333333334
+	Total is: 863.3333333333334
+>>>>>>>>>>>>>>>>2 coffe 8
+
+2 coffe 8
+
+your meal cost: 338.0
+service cost 20
+sales tax cost: 2253.3333333333335
+	Total is: 2611.3333333333335
+>>>>>>>>>>>>>>>>
+1 m  2
+
+1 m  2
+
+2 vegetables soup 15
+
+your meal cost: 36.0
+service cost 20
+sales tax cost: 240.0
+	Total is: 296.0
+>>>>>>>>>>>>>>>>
+1 meat 55
+
+2 chicken 50
+
+2 chicken 50
+
+2 vegetables soup 15
+
+your meal cost: 136.5
+service cost 20
+sales tax cost: 910.0
+	Total is: 1066.5
+>>>>>>>>>>>>>>>>
+1 meat 55
+
+3 meat_burger 30
+
+your meal cost: 85.0
+service cost 20
+sales tax cost: 566.6666666666667
+	Total is: 671.6666666666667
+>>>>>>>>>>>>>>>>
+1 meat 55
+
+1 banana 4
+
+your meal cost: 59.0
+service cost 20
+sales tax cost: 393.33333333333337
+	Total is: 472.33333333333337

@@ -1,0 +1,17 @@
+,meat,
+1 meat 55
+2 chicken 50
+3 meat_burger 30
+4 chicken_burger 30
+,vegetables,
+1 tomato_soup 10
+2 vegetables_soup 15
+3 vegetables_salt 15
+4 green_burger
+,trinks,
+1 tee 5
+2 coffe 8
+3 apple_juice 13
+,frouit,
+1 banana 4
+2 watermeloin 10

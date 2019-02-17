@@ -1,0 +1,8 @@
+1 meat 55
+
+1 banana 4
+
+your meal cost: 59.0
+service cost 20
+sales tax cost: 393.33333333333337
+	Total is: 472.33333333333337
